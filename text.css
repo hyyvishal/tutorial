@@ -1,0 +1,15 @@
+/* This is a comment in CSS */
+body {
+    background-color: lightblue; /* Sets the background color of the page */
+  }
+  
+  h1 {
+    color: white; /* Sets the text color of all h1 elements */
+    text-align: center; /* Centers the text */
+  }
+  
+  p {
+    font-family: Verdana, sans-serif; /* Sets the font family for all paragraph elements */
+    font-size: 20px; /* Sets the font size */
+  }
+  
